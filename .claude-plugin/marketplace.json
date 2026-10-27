@@ -1,0 +1,26 @@
+{
+  "name": "tipografia-converzzo",
+  "owner": {
+    "name": "Converzzo",
+    "url": "https://instagram.com/converzzo"
+  },
+  "metadata": {
+    "description": "Plugin gratuito de Converzzo: subtítulos y textos animados con Claude."
+  },
+  "plugins": [
+    {
+      "name": "tipografia-converzzo",
+      "source": "./plugins/tipografia-converzzo",
+      "description": "Subtítulos y textos animados para Reels y TikTok que Claude aplica por ti: 16 estilos de subtítulos, títulos detrás de ti, citas, contadores, encuestas, texto animado, 40 fuentes gratis, .srt y traducción. Gratis, por @converzzo.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Converzzo"
+      },
+      "license": "MIT",
+      "keywords": [
+        "subtitulos",
+        "tipografia"
+      ]
+    }
+  ]
+}

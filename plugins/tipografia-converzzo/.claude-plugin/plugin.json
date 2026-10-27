@@ -1,0 +1,20 @@
+{
+  "name": "tipografia-converzzo",
+  "version": "1.0.0",
+  "description": "Subtítulos y textos animados para Reels y TikTok que Claude aplica por ti: 16 estilos de subtítulos, títulos detrás de ti, citas, contadores, encuestas, texto animado, 40 fuentes gratis, .srt y traducción. Gratis, por @converzzo.",
+  "author": {
+    "name": "Converzzo",
+    "url": "https://instagram.com/converzzo"
+  },
+  "homepage": "https://github.com/productoraudiovisual-droid/tipografia-converzzo",
+  "repository": "https://github.com/productoraudiovisual-droid/tipografia-converzzo",
+  "license": "MIT",
+  "keywords": [
+    "subtitulos",
+    "captions",
+    "tipografia",
+    "texto",
+    "reels",
+    "tiktok"
+  ]
+}
